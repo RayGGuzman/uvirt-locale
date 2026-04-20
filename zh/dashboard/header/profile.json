@@ -1,8 +1,8 @@
 {
-    "dashboard": "Dashboard",
-    "billing": "Billing",
+    "dashboard": "仪表板",
+    "billing": "账单",
     "support": "Support",
     "documentation": "Documentation",
-    "api": "Developer API",
-    "logout": "Logout"
+    "api": "开发者 API",
+    "logout": "退出登录"
 }
