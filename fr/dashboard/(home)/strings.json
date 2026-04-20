@@ -1,0 +1,17 @@
+{
+    "hero1": "Accessibility",
+    "hero2": "for Discord",
+    "description": "Accessibility where it's needed the most: Discord Voice Chats. Social notifications to stay connected and up to date, anywhere.",
+    "go_to_dashboard": "Go to Dashboard",
+    "invite_btn": "Invite {{bot}}",
+    "invite_btn_short": "Inviter",
+    "join_support": "Join Support",
+    "join_support_short": "Assistance",
+    "start_here": "Get started here in seconds",
+    "input_1": "Hello everyone, welcome to the voice channel!",
+    "input_2": "Accessibility where it's needed most.",
+    "input_3": "Type in the chat, I'll speak for you.",
+    "input_4": "97 voices across 10 languages!",
+    "hero_category_name": "#/voice/dev/null",
+    "hero_channel_name": "• Public"
+}
