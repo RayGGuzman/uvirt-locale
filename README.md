@@ -1,1 +1,8 @@
-# uvirt-locale
+# UVirt Translations
+
+- ✨ Translation from English to English updates the source strings.
+
+## Contributing
+
+- **⚠ This repository is only for adding/updating new strings for English language.**
+- **⚠ For editing strings in other languages use our [weblate](https://weblate.uvirt.space) platform instead.**
