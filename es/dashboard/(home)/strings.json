@@ -3,7 +3,7 @@
     "hero2": "para Discord",
     "description": "Accesibilidad donde más se necesita: en los chats de voz de Discord. Notificaciones sociales para mantenerte conectado y al día, desde cualquier lugar.",
     "go_to_dashboard": "Ir al Dashboard",
-    "invite_btn": "Invitar a {{bot}}",
+    "invite_btn": "Invite {bot}",
     "invite_btn_short": "Invitar",
     "join_support": "Acceder al soporte",
     "join_support_short": "Soporte",
