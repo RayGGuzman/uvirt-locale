@@ -1,5 +1,5 @@
 {
-    "title": "{{bot}} para o Discord",
-    "copyright": "não afiliado ao Discord Inc.",
-    "made_by": "Feito por"
+    "title": "{bot} for Discord",
+    "copyright": "{copyright}, not affiliated with Discord Inc.",
+    "made_by": "Made by {creator}"
 }
