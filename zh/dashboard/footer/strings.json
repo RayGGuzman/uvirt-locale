@@ -1,5 +1,5 @@
 {
-    "title": "适用于 Discord 的 {{bot}}",
-    "copyright": "不隶属于 Discord Inc.",
-    "made_by": "制作："
+    "title": "适用于 Discord 的 {bot}",
+    "copyright": "{copyright}，不隶属于 Discord Inc.",
+    "made_by": "制作：{creator}"
 }
