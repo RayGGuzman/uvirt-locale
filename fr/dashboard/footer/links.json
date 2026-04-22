@@ -1,8 +1,8 @@
 {
-    "title": "Ressources",
-    "tts": "Synthèse vocale",
-    "support": "Assistance",
+    "title": "Resources",
+    "tts": "Text to Speech",
+    "support": "Support",
     "documentation": "Documentation",
-    "status": "Statut",
-    "invite": "Inviter"
+    "status": "Status",
+    "invite": "Invite"
 }
