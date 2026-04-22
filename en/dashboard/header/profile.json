@@ -2,6 +2,7 @@
     "dashboard": "Dashboard",
     "billing": "Billing",
     "support": "Support",
+    "premium": "Premium",
     "documentation": "Documentation",
     "api": "Developer API",
     "logout": "Logout"
