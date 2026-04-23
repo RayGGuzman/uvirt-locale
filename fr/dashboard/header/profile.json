@@ -1,9 +1,9 @@
 {
-    "dashboard": "Dashboard",
-    "billing": "Billing",
-    "support": "Support",
+    "dashboard": "Tableau de bord",
+    "billing": "Facturation",
+    "support": "Assistance",
     "premium": "Premium",
     "documentation": "Documentation",
-    "api": "Developer API",
-    "logout": "Logout"
+    "api": "API Développeur",
+    "logout": "Déconnexion"
 }
