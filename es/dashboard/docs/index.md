@@ -1,18 +1,22 @@
-A list of all commands can be found by just typing `/` into the chat box inside Discord, or online at [discordlist.gg](https://discordlist.gg/bot/1125449347451068437/commands).
+Puedes encontrar una lista de todos los comandos simplemente escribiendo `/` en el cuadro de chat dentro de Discord, o en línea en [discordlist.gg](https://discordlist.gg/bot/1125449347451068437/commands).
 
-### 🕵️‍♀️ Styles (whitelabel)
+### 🕵️‍♀️ Estilos (marca blanca)
 
-The Styles feature enables you to customize (or whitelabel) Wamellow's appearance by modifying its username, avatar, banner, and bio. These customizations apply across all bot interactions, including commands, features, and the server member list. <br /> <br />
+La función Estilos te permite personalizar (o aplicar marca blanca) la apariencia de Wamellow modificando su nombre de usuario, avatar, banner y biografía. Estas personalizaciones se aplican a todas las interacciones del bot, incluyendo comandos, funciones y la lista de miembros del servidor.
+<0/>
+<0/>
 
-The username must follow the [name constraints set by Discord](https://discord.com/developers/docs/resources/user#usernames-and-nicknames). The avatar must be a `.png`, `.jpg`, `.jpeg`, `.gif`, or `.webp` file and be less than 8MiB in size. (Animated formats like GIFs are also supported) <br /> <br />
+El nombre de usuario debe cumplir con las [restricciones de nombre establecidas por Discord](https://discord.com/developers/docs/resources/user#usernames-and-nicknames). El avatar debe ser un archivo `.png`, `.jpg`, `.jpeg`, `.gif` o `.webp` y tener un tamaño inferior a 8MB. (También se admiten formatos animados como los GIF)
+<0/>
+<0/>
 
-![wamellow whitelabeled command](/docs-assets/bot-style.webp)
+![comando de marca blanca de wamellow](/docs-assets/bot-style.webp)
 
-## Languages
+## Idiomas
 
-Wamellow is translated into many different languages, including
+Wamellow está traducido a muchos idiomas diferentes, incluyendo
 
-- 🇺🇸 English
+- 🇺🇸 Inglés
 - 🇭🇷 Croatian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=hr&style=flat&logo=crowdin&query=%24.progress.3.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇩🇪 German ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=de&style=flat&logo=crowdin&query=%24.progress.0.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇮🇹 Italian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=it&style=flat&logo=crowdin&query=%24.progress.4.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json) <br /><br />
@@ -29,31 +33,31 @@ Wamellow is translated into many different languages, including
 - 🇹🇷 Turkish ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=tr&style=flat&logo=crowdin&query=%24.progress.11.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
   <br />
 
-Note that Wamellow will automatically choose the language of your Discord.
-If there are no translations available for your language, it will default to English. <br /> <br />
+Ten en cuenta que Wamellow elegirá automáticamente el idioma de tu Discord.
+Si no hay traducciones disponibles para tu idioma, será el inglés por defecto. <br /> <br />
 
-All translations are done by our community, if your language is missing, feel free to [send a join request on crowdin](https://crowdin.com/project/wamellow) and [message @mwlica](/support) on discord! <br /> <br />
+Todas las traducciones son hechas por nuestra comunidad, si su idioma no está disponible, siéntete libre de [enviar una solicitud de inscripción en crowdin](https://crowdin.com/project/wamellow) y [mensaje @mwlica](/support) en discord! <br /> <br />
 
-The list of languages for Text-to-Speech differs:
+La lista de idiomas para el texto a la palabra difiere de:
 
-- 🇺🇸 English (US/UK/AU)
-- 🇩🇪 German
-- 🇫🇷 Frensh
-- 🇮🇹 Italian
-- 🇪🇸 Spanish
-- 🇲🇽 Spanish, Mexico
-- 🇵🇹 Portuguese
-- 🇧🇷 Portuguese, Brazilian
-- 🇮🇩 Indonesian
-- 🇯🇵 Japanese
-- 🇰🇷 Korean
-  <br />
+- 🇺🇸 Inglés (US/UK/AU)
+- 🇩🇪 Alemán
+- 🇫🇷 Frances
+- 🇮🇹 Italiano
+- 🇪🇸 Español
+- 🇲🇽 Español, México
+- 🇵🇹 Portugués
+- 🇵🇹 Portugués, Brasileño
+- 🇮🇩 Indonesio
+- 🇯🇵 Japonés
+- 🇰🇷 Coreano
+  <0/>
 
-You can find the full list of supported voices in the [Text-to-Speech documentation](/docs/text-to-speech#voices).
+Puedes encontrar la lista completa de voces soportadas en la [documentación de texto a voz](/docs/text-to-speech#voices).
 
-## Funding
+## Financiación
 
-Wamellow is essentially a one-(wo)man show. I — [Luna](https://shi.gg) — plan, develop, maintain, host and fund the project alone, as I see it as a hobby and use programming is my form of therapy. I would be very grateful if you could support my work with a generous donation on [ko-fi.com/mwlica](https://ko-fi.com/mwlica) or by subscribing to our [premium plan](/premium) — but obviously there's no pressure!
+Wamellow es esencialmente un show. I — [Luna](https://shi.gg) — planificar, desarrollar, mantener, alojar y financiar el proyecto solo como lo veo como un hobby y la programación de uso es mi forma de terapia. Estaría muy agradecido si pudieras apoyar mi trabajo con una generosa donación en [ko-fi. om/mwlica](https://ko-fi.com/mwlica) o suscribiéndose a nuestro [plan premium](/premium) — ¡pero obviamente no hay presión!
 
 ## Premium
 
