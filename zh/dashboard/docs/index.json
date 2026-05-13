@@ -3,5 +3,6 @@
     "contribute": "Contribute",
     "join_support": "加入支持",
     "invite": "邀请 {bot}",
-    "dashboard": "仪表板"
+    "dashboard": "仪表板",
+    "permissions": "{bot} requires permissions"
 }
