@@ -3,5 +3,6 @@
     "contribute": "Contribute",
     "join_support": "Junte-se a Suporte",
     "invite": "Convidar {bot}",
-    "dashboard": "Dashboard"
+    "dashboard": "Dashboard",
+    "permissions": "{bot} requires permissions"
 }
