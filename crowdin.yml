@@ -1,5 +1,10 @@
 files:
   - source: /en/**/**/**
     translation: /%two_letters_code%/**/%file_name%.%file_extension%
+    markdown:
+      headings_levels: h1,h2,h3,h4,h5,h6
+      exclude_patterns:
+        - '<br\s*/?\s*>'
+        - '!\[.*?\]\(.*?\)'  # Opcional: excluir imágenes si lo necesitas
 bundles:
   - 2
