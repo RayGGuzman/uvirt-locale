@@ -2,9 +2,9 @@ A list of all commands can be found by just typing `/` into the chat box inside 
 
 ### 🕵️‍♀️ Styles (whitelabel)
 
-The Styles feature enables you to customize (or whitelabel) Wamellow's appearance by modifying its username, avatar, banner, and bio. These customizations apply across all bot interactions, including commands, features, and the server member list. <br /> <br />
+The Styles feature enables you to customize (or whitelabel) Wamellow's appearance by modifying its username, avatar, banner, and bio. These customizations apply across all bot interactions, including commands, features, and the server member list. <br /><br />
 
-The username must follow the [name constraints set by Discord](https://discord.com/developers/docs/resources/user#usernames-and-nicknames). The avatar must be a `.png`, `.jpg`, `.jpeg`, `.gif`, or `.webp` file and be less than 8MiB in size. (Animated formats like GIFs are also supported) <br /> <br />
+The username must follow the [name constraints set by Discord](https://discord.com/developers/docs/resources/user#usernames-and-nicknames). The avatar must be a `.png`, `.jpg`, `.jpeg`, `.gif`, or `.webp` file and be less than 8MiB in size. (Animated formats like GIFs are also supported) <br /><br />
 
 ![wamellow whitelabeled command](/docs-assets/bot-style.webp)
 
@@ -15,7 +15,7 @@ Wamellow is translated into many different languages, including
 - 🇺🇸 English
 - 🇭🇷 Croatian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=hr&style=flat&logo=crowdin&query=%24.progress.3.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇩🇪 German ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=de&style=flat&logo=crowdin&query=%24.progress.0.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
-- 🇮🇹 Italian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=it&style=flat&logo=crowdin&query=%24.progress.4.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json) <br /><br />
+- 🇮🇹 Italian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=it&style=flat&logo=crowdin&query=%24.progress.4.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇨🇳 Chinese, Simplified ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=zh-CN&style=flat&logo=crowdin&query=%24.progress.12.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇹🇼 Chinese, Traditional ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=zh-TW&style=flat&logo=crowdin&query=%24.progress.13.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇫🇷 French ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=fr&style=flat&logo=crowdin&query=%24.progress.2.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
@@ -30,9 +30,9 @@ Wamellow is translated into many different languages, including
   <br />
 
 Note that Wamellow will automatically choose the language of your Discord.
-If there are no translations available for your language, it will default to English. <br /> <br />
+If there are no translations available for your language, it will default to English. <br /><br />
 
-All translations are done by our community, if your language is missing, feel free to [send a join request on crowdin](https://crowdin.com/project/wamellow) and [message @mwlica](/support) on discord! <br /> <br />
+All translations are done by our community, if your language is missing, feel free to [send a join request on crowdin](https://crowdin.com/project/wamellow) and [message @mwlica](/support) on discord! <br /><br />
 
 The list of languages for Text-to-Speech differs:
 
@@ -57,7 +57,7 @@ Wamellow is essentially a one-(wo)man show. I — [Luna](https://shi.gg) — pla
 
 ## 高级版
 
-The pricing and list of premium features can be found on [wamellow.com/premium](/premium). You can learn more about your rights in the [Payment Terms](/terms/payment). Payments are handled in EUR, but your bank usually should do currency conversion automatically. <br /> <br />
+The pricing and list of premium features can be found on [wamellow.com/premium](/premium). You can learn more about your rights in the [Payment Terms](/terms/payment). Payments are handled in EUR, but your bank usually should do currency conversion automatically. <br /><br />
 Some premium features only apply to the user who has subscribed to the premium plan, while some other features apply to the selected server.
 
 ## Security
