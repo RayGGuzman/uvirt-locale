@@ -10,11 +10,11 @@ El nombre de usuario debe cumplir con las [restricciones de nombre establecidas 
 
 ## Idiomas
 
-Wamellow is translated into many different languages, including
+Wamellow está traducido a muchos idiomas diferentes, incluyendo
 
-- 🇺🇸 English
-- 🇭🇷 Croatian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=hr&style=flat&logo=crowdin&query=%24.progress.3.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
-- 🇩🇪 German ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=de&style=flat&logo=crowdin&query=%24.progress.0.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
+- 🇺🇸 Inglés
+- 🇭🇷 Croata ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=hr&style=flat&logo=crowdin&query=%24.progress.3.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
+- 🇩🇪 Aleman ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=de&style=flat&logo=crowdin&query=%24.progress.0.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇮🇹 Italian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=it&style=flat&logo=crowdin&query=%24.progress.4.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇨🇳 Chinese, Simplified ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=zh-CN&style=flat&logo=crowdin&query=%24.progress.12.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇹🇼 Chinese, Traditional ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=zh-TW&style=flat&logo=crowdin&query=%24.progress.13.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
@@ -29,10 +29,10 @@ Wamellow is translated into many different languages, including
 - 🇹🇷 Turkish ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=tr&style=flat&logo=crowdin&query=%24.progress.11.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
   <br />
 
-Note that Wamellow will automatically choose the language of your Discord.
-If there are no translations available for your language, it will default to English. <br /><br />
+Ten en cuenta que Wamellow elegirá automáticamente el idioma de tu Discord.
+Si no hay traducciones disponibles para tu idioma, será el inglés por defecto. <br /><br />
 
-All translations are done by our community, if your language is missing, feel free to [send a join request on crowdin](https://crowdin.com/project/wamellow) and [message @mwlica](/support) on discord! <br /><br />
+Todas las traducciones son hechas por nuestra comunidad, si su idioma no está disponible, siéntete libre de [enviar una solicitud de inscripción en crowdin](https://crowdin.com/project/wamellow) y [mensaje @mwlica](/support) en discord! <br /><br />
 
 The list of languages for Text-to-Speech differs:
 
@@ -49,17 +49,17 @@ The list of languages for Text-to-Speech differs:
 - 🇰🇷 Korean
   <br />
 
-You can find the full list of supported voices in the [Text-to-Speech documentation](/docs/text-to-speech#voices).
+Puedes encontrar la lista completa de voces soportadas en la [documentación de texto a voz](/docs/text-to-speech#voices).
 
-## Funding
+## Financiación
 
-Wamellow is essentially a one-(wo)man show. I — [Luna](https://shi.gg) — plan, develop, maintain, host and fund the project alone, as I see it as a hobby and use programming is my form of therapy. I would be very grateful if you could support my work with a generous donation on [ko-fi.com/mwlica](https://ko-fi.com/mwlica) or by subscribing to our [premium plan](/premium) — but obviously there's no pressure!
+Wamellow es esencialmente un show. I — [Luna](https://shi.gg) — planificar, desarrollar, mantener, alojar y financiar el proyecto solo como lo veo como un hobby y la programación de uso es mi forma de terapia. Estaría muy agradecido si pudieras apoyar mi trabajo con una generosa donación en [ko-fi. om/mwlica](https://ko-fi.com/mwlica) o suscribiéndose a nuestro [plan premium](/premium) — ¡pero obviamente no hay presión!
 
-## Premium
+## Prémium
 
-The pricing and list of premium features can be found on [wamellow.com/premium](/premium). You can learn more about your rights in the [Payment Terms](/terms/payment). Payments are handled in EUR, but your bank usually should do currency conversion automatically. <br /><br />
-Some premium features only apply to the user who has subscribed to the premium plan, while some other features apply to the selected server.
+Los precios y la lista de características premium se pueden encontrar en [wamellow.com/premium](/premium). Puedes aprender más sobre tus derechos en los [Términos de pago](/terms/payment). Los pagos se gestionan en EUR, pero su banco normalmente debería hacer la conversión de moneda automáticamente. <br /><br />
+Algunas características premium sólo se aplican al usuario que se ha suscrito al plan premium, mientras algunas otras características se aplican al servidor seleccionado.
 
-## Security
+## Seguridad
 
-Wamellow develops and maintains many tools, utilities and APIs in-house on its own infrastructure. Therefore, there is always a risk of security vulnerabilities and the like. You are welcome to search for and report bugs and vulnerabilities in all of our programmes, tools and APIs, as long as you do not gain any advantage, cause us any harm, abuse the system, disrupt service or impact any other user, and do not disclose the issue to third parties until it is resolved. Please report any issues to either [luna@wamellow.com](mailto:luna@wamellow.com) or mwlica on Discord. Please do not report the following: brute force attacks; DDoS attacks; publicly accessible login panels; reports from scanners and automated tools; reports on the subdomain status.wamellow.com; self-exploitation; or social engineering of users.
+Wamellow desarrolla y mantiene muchas herramientas, utilidades y APIs en su propia infraestructura. Por lo tanto, siempre existe un riesgo de vulnerabilidades de seguridad y similares. Te invitamos a buscar e informar de errores y vulnerabilidades en todos nuestros programas. herramientas y APIs, siempre y cuando no obtenga ninguna ventaja, causarnos cualquier daño, abuso del sistema, interrupción del servicio o impacto en cualquier otro usuario, y no divulguen la cuestión a terceros hasta que se resuelva. Por favor reporta cualquier problema en [luna@wamellow.com](mailto:luna@wamellow.com) o mwlica en Discord. Por favor, no reportes lo siguiente: ataques de fuerza bruta; ataques de DDoS, paneles de inicio de sesión de acceso público; informa de los escáneres y herramientas automatizadas; informes sobre el estado del subdominio. amellow.com; autoexplotación; o ingeniería social de los usuarios.
