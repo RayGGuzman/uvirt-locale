@@ -2,9 +2,9 @@
     "dashboard": "Dashboard",
     "billing": "Facturación",
     "support": "Soporte",
-    "premium": "Premium",
+    "premium": "Prémium",
     "documentation": "Documentación",
     "api": "API para Desarrolladores",
     "logout": "Cerrar Sesión",
-    "profile": "Profile"
+    "profile": "Perfil"
 }
