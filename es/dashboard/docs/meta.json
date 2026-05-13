@@ -1,60 +1,60 @@
 {
     "pages": [
         {
-            "name": "🍪 Home",
+            "name": "🍪 Inicio",
             "file": "index.md",
-            "description": "Your portal to the extensive and detailed Wamellow documentation!"
+            "description": "¡Tu portal a la extensa y detallada documentación de Wamellow!"
         },
         {
-            "name": "👋 Greetings",
+            "name": "👋 Saludos",
             "file": "greetings.md",
             "image": "/docs-assets/open-graph/greetings.webp",
-            "description": "Create a warm and inviting atmosphere for new members in your community!",
+            "description": "¡Crea un ambiente cálido y acogedor para los nuevos miembros de tu comunidad!",
             "permissions": {
                 "bot": [
-                    "View Channel",
-                    "Send Messages",
-                    "Embed Links",
-                    "Attach Files"
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Adjuntar archivos"
                 ],
                 "user": [
-                    "Manage Server"
+                    "Gestionar servidor"
                 ]
             }
         },
         {
-            "name": "🔐 Passport",
+            "name": "🔐 Pasaporte",
             "file": "passport.md",
             "image": "https://cdn.waya.one/r/passport.png",
-            "description": "Verify members with a captcha in your community for enhanced security!",
+            "description": "¡Verifique a los miembros con un captcha en su comunidad para mayor seguridad!",
             "permissions": {
                 "bot": [
-                    "Ban Members",
-                    "Kick Members",
-                    "Manage Roles",
-                    "View Channel",
-                    "Send Messages",
-                    "Embed Links"
+                    "Banear Miembros",
+                    "Expulsar miembros",
+                    "Gestionar Roles",
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces"
                 ],
                 "user": [
-                    "Manage Server"
+                    "Gestionar servidor"
                 ]
             }
         },
         {
-            "name": "😔 Farewell",
+            "name": "😔 Despedida",
             "file": "farewell.md",
             "image": "/docs-assets/open-graph/greetings.webp",
-            "description": "Send farewell messages to members leaving your community!",
+            "description": "¡Envía mensajes de despedida a los miembros que abandonen tu comunidad!",
             "permissions": {
                 "bot": [
-                    "View Channel",
-                    "Send Messages",
-                    "Embed Links",
-                    "Attach Files"
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Adjuntar archivos"
                 ],
                 "user": [
-                    "Manage Server"
+                    "Gestionar servidor"
                 ]
             }
         },
@@ -62,105 +62,105 @@
             "name": "⭐ Starboard",
             "file": "starboard.md",
             "image": "/docs-assets/open-graph/starboard.webp",
-            "description": "An engaging and customizable platform for highlighting memorable messages.",
+            "description": "Una plataforma atractiva y personalizable para resaltar mensajes memorables.",
             "permissions": {
                 "bot": [
-                    "View Channel",
-                    "Send Messages",
-                    "Embed Links",
-                    "Attach Files"
+                    "Ver canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Adjuntar archivos"
                 ],
                 "user": [
-                    "Manage Server"
+                    "Administrar servidor"
                 ]
             }
         },
         {
-            "name": "🔊 Text to Speech",
+            "name": "🔊 Texto a Voz",
             "file": "text-to-speech.md",
             "image": "/docs-assets/open-graph/text-to-speech.webp",
-            "description": "Convert conversational text to human-like speech in voice channels.",
+            "description": "Convierte texto conversacional a voz humana en canales de voz.",
             "permissions": {
                 "bot": [
-                    "Connect",
-                    "Speak",
-                    "View Channel",
-                    "Send Messages",
-                    "Embed Links"
+                    "Conectar",
+                    "Hablar",
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces"
                 ],
                 "user": [
-                    "View Channel",
-                    "Send Messages",
-                    "Use Application Commands"
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Usar Comandos de Aplicación"
                 ]
             }
         },
         {
-            "name": "📅 Daily Posts",
+            "name": "📅 Mensajes Diarios",
             "file": "dailyposts.md",
             "image": "/docs-assets/open-graph/dailyposts.webp",
-            "description": "Automatically post daily images of cute characters in your community!",
+            "description": "¡Publica automáticamente imágenes diarias de caracteres lindos en tu comunidad!",
             "permissions": {
                 "bot": [
-                    "View Channel",
-                    "Send Messages",
-                    "Attach Files"
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Adjuntar archivos"
                 ],
                 "user": [
-                    "Manage Server"
+                    "Gestionar servidor"
                 ]
             }
         },
         {
-            "name": "📢 Social Notifications",
+            "name": "📢 Notificaciones sociales",
             "file": "notifications.md",
             "image": "/docs-assets/open-graph/notifications-youtube.webp",
-            "description": "Notify your community when creators on YouTube, Twitch, Bluesky or Reddit post or go live!",
+            "description": "¡Notifica a tu comunidad cuando los creadores de YouTube, Twitch, Bluesky o Reddit publiquen o vayan en directo!",
             "permissions": {
                 "bot": [
-                    "View Channel",
-                    "Send Messages",
-                    "Embed Links",
-                    "Mention Everyone",
-                    "Read Message History"
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Mencionar a todos",
+                    "Leer el historial de mensajes"
                 ],
                 "user": [
-                    "Manage Server"
+                    "Gestionar servidor"
                 ]
             }
         },
         {
-            "name": "🩵 Bluesky Bridge",
+            "name": "🩵 Puente Bluesky",
             "file": "bluesky.md",
             "image": "/wamellow-bluesky-like.webp",
-            "description": "Bridge Bluesky and Discord together! Wamellow let's you like & repost Bluesky posts within Discord, just by reacting with a 🩵-emoji.",
+            "description": "¡Bridge Bluesky y Discord juntos! Wamellow vamos a gustarte y volver a publicar mensajes Bluesky dentro de Discord, sólo reaccionando con un 🩵-emoji.",
             "permissions": {
                 "bot": [
-                    "View Channel",
-                    "Add Reactions",
-                    "Read Message History"
+                    "Ver Canal",
+                    "Añadir reacciones",
+                    "Leer el historial de mensajes"
                 ],
                 "user": [
-                    "View Channel",
-                    "Add Reactions"
+                    "Ver Canal",
+                    "Añadir reacciones"
                 ]
             }
         },
         {
-            "name": "🖊️ Custom Commands",
+            "name": "🖊️ Comandos Personalizados",
             "file": "custom-commands.md",
             "image": "",
-            "description": "Easily handle frequently asked questions, common queries, and repetitive tasks in a snap. Empower your server with quick access to custom commands.",
+            "description": "Manejar fácilmente preguntas frecuentes, consultas comunes y tareas repetitivas en un snap. Permite a su servidor un acceso rápido a comandos personalizados.",
             "permissions": {
                 "bot": [
-                    "View Channel",
-                    "Send Messages",
-                    "Embed Links"
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces"
                 ],
                 "user": [
-                    "View Channel",
-                    "Send Messages",
-                    "Manage Server"
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Gestionar servidor"
                 ]
             }
         }
