@@ -1,0 +1,32 @@
+{
+    "sections": {
+        "account": "Account",
+        "billing": "Billing"
+    },
+    "nav": {
+        "general": {
+            "title": "My account",
+            "description": "Language and base profile settings."
+        },
+        "rank": {
+            "title": "Customize Rank Card",
+            "description": "Test"
+        },
+        "tts": {
+            "title": "Text to Speech",
+            "description": "Test"
+        },
+        "premium": {
+            "title": "Server upgrade",
+            "description": "Test"
+        },
+        "subscriptions": {
+            "title": "Suscriptions",
+            "description": "Test"
+        },
+        "gifts": {
+            "title": "Gift inventory",
+            "description": "Test"
+        }
+    }
+}
