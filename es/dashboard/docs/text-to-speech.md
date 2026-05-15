@@ -82,8 +82,7 @@ To prevent Wamellow from speaking your messages inside of Chat to Speech channel
 <br />
 If you only want to skip specific parts of your message — such as multiline code blocks, spoilers, or emojis — run `/tts set markdown state:Skip`. To have those parts read aloud again, run `/tts set markdown state:Speak out loud`.
 
-<br />
-<br />
+<br /> <br />
 
 **Note:** Any of those methods only apply to you and your own messages, and not to anyone else using chat to speech.
 If you want to disable it for everyone, [read the setup section of these docs](#setup).
@@ -103,7 +102,7 @@ All currently available filters:
 - `Vibrato`
 - `LowPass`
 - `Pitch` (customizable between 0% and 100%; default 50%)
-- `Speed` (customizable between 1% and 100%; default 50%)
+- `Speed` (customizable between 1% and 100%; default 50%) <br />
   <br />
 
 <br />
