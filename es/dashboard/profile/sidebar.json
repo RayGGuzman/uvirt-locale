@@ -1,0 +1,32 @@
+{
+    "sections": {
+        "account": "Cuenta",
+        "billing": "Facturación"
+    },
+    "nav": {
+        "general": {
+            "title": "Mi cuenta",
+            "description": "Idioma y configuración básica del perfil."
+        },
+        "rank": {
+            "title": "Personalizar tarjeta de rango",
+            "description": "Prueba"
+        },
+        "tts": {
+            "title": "Texto a Voz",
+            "description": "Prueba"
+        },
+        "premium": {
+            "title": "Mejora de servidor",
+            "description": "Prueba"
+        },
+        "subscriptions": {
+            "title": "Suscripciones",
+            "description": "Prueba"
+        },
+        "gifts": {
+            "title": "Inventario de regalos",
+            "description": "Prueba"
+        }
+    }
+}

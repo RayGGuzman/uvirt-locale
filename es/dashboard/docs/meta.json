@@ -1,0 +1,168 @@
+{
+    "pages": [
+        {
+            "name": "🍪 Inicio",
+            "file": "index.md",
+            "description": "¡Tu portal a la extensa y detallada documentación de Wamellow!"
+        },
+        {
+            "name": "👋 Saludos",
+            "file": "greetings.md",
+            "image": "/docs-assets/open-graph/greetings.webp",
+            "description": "¡Crea un ambiente cálido y acogedor para los nuevos miembros de tu comunidad!",
+            "permissions": {
+                "bot": [
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Adjuntar archivos"
+                ],
+                "user": [
+                    "Gestionar servidor"
+                ]
+            }
+        },
+        {
+            "name": "🔐 Pasaporte",
+            "file": "passport.md",
+            "image": "https://cdn.waya.one/r/passport.png",
+            "description": "¡Verifique a los miembros con un captcha en su comunidad para mayor seguridad!",
+            "permissions": {
+                "bot": [
+                    "Banear Miembros",
+                    "Expulsar miembros",
+                    "Gestionar Roles",
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces"
+                ],
+                "user": [
+                    "Gestionar servidor"
+                ]
+            }
+        },
+        {
+            "name": "😔 Despedida",
+            "file": "farewell.md",
+            "image": "/docs-assets/open-graph/greetings.webp",
+            "description": "¡Envía mensajes de despedida a los miembros que abandonen tu comunidad!",
+            "permissions": {
+                "bot": [
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Adjuntar archivos"
+                ],
+                "user": [
+                    "Gestionar servidor"
+                ]
+            }
+        },
+        {
+            "name": "⭐ Starboard",
+            "file": "starboard.md",
+            "image": "/docs-assets/open-graph/starboard.webp",
+            "description": "Una plataforma atractiva y personalizable para resaltar mensajes memorables.",
+            "permissions": {
+                "bot": [
+                    "Ver canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Adjuntar archivos"
+                ],
+                "user": [
+                    "Administrar servidor"
+                ]
+            }
+        },
+        {
+            "name": "🔊 Texto a Voz",
+            "file": "text-to-speech.md",
+            "image": "/docs-assets/open-graph/text-to-speech.webp",
+            "description": "Convierte texto conversacional a voz humana en canales de voz.",
+            "permissions": {
+                "bot": [
+                    "Conectar",
+                    "Hablar",
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces"
+                ],
+                "user": [
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Usar Comandos de Aplicación"
+                ]
+            }
+        },
+        {
+            "name": "📅 Mensajes Diarios",
+            "file": "dailyposts.md",
+            "image": "/docs-assets/open-graph/dailyposts.webp",
+            "description": "¡Publica automáticamente imágenes diarias de caracteres lindos en tu comunidad!",
+            "permissions": {
+                "bot": [
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Adjuntar archivos"
+                ],
+                "user": [
+                    "Gestionar servidor"
+                ]
+            }
+        },
+        {
+            "name": "📢 Notificaciones sociales",
+            "file": "notifications.md",
+            "image": "/docs-assets/open-graph/notifications-youtube.webp",
+            "description": "¡Notifica a tu comunidad cuando los creadores de YouTube, Twitch, Bluesky o Reddit publiquen o vayan en directo!",
+            "permissions": {
+                "bot": [
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces",
+                    "Mencionar a todos",
+                    "Leer el historial de mensajes"
+                ],
+                "user": [
+                    "Gestionar servidor"
+                ]
+            }
+        },
+        {
+            "name": "🩵 Puente Bluesky",
+            "file": "bluesky.md",
+            "image": "/wamellow-bluesky-like.webp",
+            "description": "¡Bridge Bluesky y Discord juntos! Wamellow vamos a gustarte y volver a publicar mensajes Bluesky dentro de Discord, sólo reaccionando con un 🩵-emoji.",
+            "permissions": {
+                "bot": [
+                    "Ver Canal",
+                    "Añadir reacciones",
+                    "Leer el historial de mensajes"
+                ],
+                "user": [
+                    "Ver Canal",
+                    "Añadir reacciones"
+                ]
+            }
+        },
+        {
+            "name": "🖊️ Comandos Personalizados",
+            "file": "custom-commands.md",
+            "image": "",
+            "description": "Manejar fácilmente preguntas frecuentes, consultas comunes y tareas repetitivas en un snap. Permite a su servidor un acceso rápido a comandos personalizados.",
+            "permissions": {
+                "bot": [
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Insertar enlaces"
+                ],
+                "user": [
+                    "Ver Canal",
+                    "Enviar mensajes",
+                    "Gestionar servidor"
+                ]
+            }
+        }
+    ]
+}

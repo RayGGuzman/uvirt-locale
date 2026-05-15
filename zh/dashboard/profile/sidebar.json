@@ -1,0 +1,32 @@
+{
+    "sections": {
+        "account": "帐户",
+        "billing": "帐单"
+    },
+    "nav": {
+        "general": {
+            "title": "我的帐户",
+            "description": "语言和基本个人资料设置。"
+        },
+        "rank": {
+            "title": "自定义等级卡",
+            "description": "测试"
+        },
+        "tts": {
+            "title": "文字转语音",
+            "description": "测试"
+        },
+        "premium": {
+            "title": "服务器升级",
+            "description": "测试"
+        },
+        "subscriptions": {
+            "title": "订阅",
+            "description": "测试"
+        },
+        "gifts": {
+            "title": "礼物库存",
+            "description": "测试"
+        }
+    }
+}

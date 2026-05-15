@@ -1,0 +1,10 @@
+{
+    "dashboard": "仪表板",
+    "billing": "账单",
+    "support": "支持",
+    "premium": "高级版",
+    "documentation": "文档",
+    "api": "开发者 API",
+    "logout": "退出登录",
+    "profile": "Profile"
+}

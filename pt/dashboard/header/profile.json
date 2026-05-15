@@ -1,0 +1,10 @@
+{
+    "dashboard": "Dashboard",
+    "billing": "Facturação",
+    "support": "Suporte",
+    "premium": "Premium",
+    "documentation": "Documentação",
+    "api": "Programador API",
+    "logout": "Encerrar Sessão",
+    "profile": "Profile"
+}

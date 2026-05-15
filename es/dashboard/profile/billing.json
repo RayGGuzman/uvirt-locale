@@ -1,0 +1,87 @@
+{
+  "alerts": {
+    "statusError": "No se pudo cargar el estado en vivo de tus planes.",
+    "billingError": "No se pudo cargar el perfil detallado de facturación."
+  },
+  "subscriptions": {
+    "title": "Administrar suscripciones en Stripe",
+    "description": "Puedes ver tus suscripciones activas, actualizar métodos de pago, cambiar detalles de facturación y cancelar planes desde el portal de Stripe.",
+    "openPortal": "Abrir portal de Stripe",
+    "portalUnavailable": "Portal de Stripe no disponible"
+  },
+  "overview": {
+    "recentPurchases": {
+      "title": "Compras recientes",
+      "description": "Últimas facturas y regalos asociados a tu cuenta.",
+      "openPortal": "Abrir portal de Stripe",
+      "empty": "Aún no hay compras."
+    },
+    "actions": {
+      "title": "Acciones de facturación",
+      "description": "Ve directamente a los lugares que más probablemente necesites después de pagar.",
+      "pro": "Ir a precios Pro",
+      "premium": "Ir a precios Premium",
+      "restore": "Restaurar compras",
+      "note": "Stripe maneja el pago de forma segura. uvirt mantiene las facturas resultantes, enlaces de regalo y estado del plan visibles aquí después de que el flujo termine."
+    }
+  },
+  "invoices": {
+    "title": "Facturas",
+    "description": "Abre o descarga tus facturas de Stripe.",
+    "invoice": "Factura",
+    "view": "Ver factura",
+    "download": "Descargar PDF",
+    "empty": "Aún no hay facturas."
+  },
+  "gifts": {
+    "title": "Regalos sin reclamar",
+    "description": "Regalos que has comprado y que aún no han sido reclamados.",
+    "gift": "Regalo",
+    "plan": "Plan de {period}",
+    "days": "{days} días",
+    "copied": "Copiado",
+    "copyLink": "Copiar enlace",
+    "openLink": "Abrir enlace de regalo",
+    "empty": "No tienes regalos sin reclamar en este momento."
+  },
+  "premium": {
+    "emptyState": {
+      "title": "No tienes ninguna licencia Premium",
+      "description": "Cuando compres o reclames una licencia Premium, aparecerá aquí para que puedas asignarla a un servidor.",
+      "buy": "Comprar Premium"
+    },
+    "assignment": {
+      "title": "Asignación de servidor Premium",
+      "description": "Las licencias Premium deben estar enlazadas a los servidores. Cambia el servidor seleccionado para transferir una licencia.",
+      "activeLicenses": "{count, plural, =1 {Licencia Premium activa} other {Licencias Premium activas}}",
+      "linkedServers": "{count, plural, =1 {Servidor enlazado} other {Servidores enlazados}}",
+      "pendingAssignment": "{count, plural, =1 {Asignación pendiente} other {Asignaciones pendientes}}",
+      "licensesTitle": "Licencias Premium",
+      "licensesDescription": "Elige la licencia específica que deseas asignar o transferir.",
+      "licenseNumber": "Licencia #{number}",
+      "noServer": "Ningún servidor seleccionado",
+      "giftLicense": "Licencia de regalo",
+      "stripeSubscription": "Suscripción de Stripe",
+      "assignServerTitle": "Asignar servidor",
+      "assignServerDescription": "La licencia #{number} se puede mover a cualquier servidor manejable a continuación.",
+      "assignedToLicense": "Asignada a la licencia #{number}",
+      "noServersAvailable": "No hay servidores manejables disponibles en este momento.",
+      "note": "Cada licencia Premium activa debe tener un servidor. Seleccionar un servidor ya asignado a otra licencia lo transfiere a la licencia actualmente seleccionada.",
+      "save": "Guardar licencias Premium"
+    }
+  },
+  "pages": {
+    "subscriptions": {
+      "title": "Suscripciones",
+      "description": "Ve tus suscripciones activas aquí. Los cambios de plan, métodos de pago, renovaciones y cancelaciones se gestionan a través del portal de Stripe."
+    },
+    "premium": {
+      "title": "Mejora de servidor",
+      "description": "Administra las licencias de servidor Premium y asigna licencias activas a los servidores que deberían recibir ventajas."
+    },
+    "gifts": {
+      "title": "Inventario de regalos",
+      "description": "Recupera enlaces de regalos que aún no han sido reclamados. Los regalos reclamados se eliminan de este inventario."
+    }
+  }
+}

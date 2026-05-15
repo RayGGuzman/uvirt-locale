@@ -1,0 +1,32 @@
+{
+    "sections": {
+        "account": "Conta",
+        "billing": "Faturamento"
+    },
+    "nav": {
+        "general": {
+            "title": "Minha conta",
+            "description": "Idioma e configurações básicas do perfil."
+        },
+        "rank": {
+            "title": "Personalizar cartão de rank",
+            "description": "Teste"
+        },
+        "tts": {
+            "title": "Texto para fala",
+            "description": "Teste"
+        },
+        "premium": {
+            "title": "Melhoria do servidor",
+            "description": "Teste"
+        },
+        "subscriptions": {
+            "title": "Assinaturas",
+            "description": "Teste"
+        },
+        "gifts": {
+            "title": "Inventário de presentes",
+            "description": "Teste"
+        }
+    }
+}

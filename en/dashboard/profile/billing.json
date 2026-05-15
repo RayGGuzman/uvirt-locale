@@ -1,0 +1,87 @@
+{
+  "alerts": {
+    "statusError": "Could not load the live status of your plans.",
+    "billingError": "Could not load detailed billing profile."
+  },
+  "subscriptions": {
+    "title": "Manage subscriptions in Stripe",
+    "description": "You can view your active subscriptions, update payment methods, change billing details and cancel plans from the Stripe portal.",
+    "openPortal": "Open Stripe portal",
+    "portalUnavailable": "Stripe portal unavailable"
+  },
+  "overview": {
+    "recentPurchases": {
+      "title": "Recent purchases",
+      "description": "Latest invoices and gift purchases tied to your account.",
+      "openPortal": "Open Stripe Portal",
+      "empty": "No purchases yet."
+    },
+    "actions": {
+      "title": "Billing actions",
+      "description": "Jump straight to the places you are most likely to need after checkout.",
+      "pro": "Go to Pro pricing",
+      "premium": "Go to Premium pricing",
+      "restore": "Restore purchases",
+      "note": "Stripe handles checkout securely. uvirt keeps the resulting invoices, gift links and plan state visible here after the popup flow ends."
+    }
+  },
+  "invoices": {
+    "title": "Invoices",
+    "description": "Open or download your Stripe invoices.",
+    "invoice": "Invoice",
+    "view": "View invoice",
+    "download": "Download PDF",
+    "empty": "No invoices yet."
+  },
+  "gifts": {
+    "title": "Unclaimed gifts",
+    "description": "Gifts you have purchased that are still waiting to be claimed.",
+    "gift": "Gift",
+    "plan": "{period} plan",
+    "days": "{days} days",
+    "copied": "Copied",
+    "copyLink": "Copy link",
+    "openLink": "Open gift link",
+    "empty": "You do not have any unclaimed gifts right now."
+  },
+  "premium": {
+    "emptyState": {
+      "title": "You do not have any Premium licenses",
+      "description": "When you purchase or claim a Premium license, it will appear here so you can assign it to a server.",
+      "buy": "Buy Premium"
+    },
+    "assignment": {
+      "title": "Premium server assignment",
+      "description": "Premium licenses must stay linked to servers. Change the selected server to transfer a license.",
+      "activeLicenses": "{count, plural, =1 {Active Premium license} other {Active Premium licenses}}",
+      "linkedServers": "{count, plural, =1 {Linked server} other {Linked servers}}",
+      "pendingAssignment": "{count, plural, =1 {Pending assignment} other {Pending assignments}}",
+      "licensesTitle": "Premium licenses",
+      "licensesDescription": "Pick the specific license you want to assign or transfer.",
+      "licenseNumber": "License #{number}",
+      "noServer": "No server selected",
+      "giftLicense": "Gift license",
+      "stripeSubscription": "Stripe subscription",
+      "assignServerTitle": "Assign server",
+      "assignServerDescription": "License #{number} can be moved to any manageable server below.",
+      "assignedToLicense": "Assigned to license #{number}",
+      "noServersAvailable": "There are no manageable servers available right now.",
+      "note": "Each active Premium license must have one server. Selecting a server already assigned to another license transfers it to the currently selected license.",
+      "save": "Save Premium licenses"
+    }
+  },
+  "pages": {
+    "subscriptions": {
+      "title": "Subscriptions",
+      "description": "View your active subscriptions here. Plan changes, payment methods, renewals and cancellations are managed through the Stripe portal."
+    },
+    "premium": {
+      "title": "Server upgrade",
+      "description": "Manage Premium server licenses and assign active licenses to the servers that should receive perks."
+    },
+    "gifts": {
+      "title": "Gift inventory",
+      "description": "Recover gift links that have not been claimed yet. Claimed gifts are removed from this inventory."
+    }
+  }
+}
