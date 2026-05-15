@@ -1,0 +1,87 @@
+{
+  "alerts": {
+    "statusError": "无法加载您的计划的实时状态。",
+    "billingError": "无法加载详细的计费资料。"
+  },
+  "subscriptions": {
+    "title": "在 Stripe 中管理订阅",
+    "description": "您可以查看有效订阅、更新付款方式、更改计费详细信息并从 Stripe 门户取消计划。",
+    "openPortal": "打开 Stripe 门户",
+    "portalUnavailable": "Stripe 门户不可用"
+  },
+  "overview": {
+    "recentPurchases": {
+      "title": "最近的购买",
+      "description": "与您帐户关联的最新发票和礼品购买。",
+      "openPortal": "打开 Stripe 门户",
+      "empty": "尚无购买。"
+    },
+    "actions": {
+      "title": "计费操作",
+      "description": "结帐后直接跳转到您最可能需要的地方。",
+      "pro": "查看 Pro 价格",
+      "premium": "查看 Premium 价格",
+      "restore": "恢复购买",
+      "note": "Stripe 安全地处理结账。流程结束后，uvirt 会在此处显示生成的发票、礼物链接和计划状态。"
+    }
+  },
+  "invoices": {
+    "title": "发票",
+    "description": "打开或下载您的 Stripe 发票。",
+    "invoice": "发票",
+    "view": "查看发票",
+    "download": "下载 PDF",
+    "empty": "尚无发票。"
+  },
+  "gifts": {
+    "title": "未领取的礼物",
+    "description": "您购买的尚未领取的礼物。",
+    "gift": "礼物",
+    "plan": "{period} 计划",
+    "days": "{days} 天",
+    "copied": "已复制",
+    "copyLink": "复制链接",
+    "openLink": "打开礼物链接",
+    "empty": "您目前没有任何未领取的礼物。"
+  },
+  "premium": {
+    "emptyState": {
+      "title": "您没有任何 Premium 许可证",
+      "description": "当您购买或领取 Premium 许可证时，它将出现在这里，以便您可以将其分配给服务器。",
+      "buy": "购买 Premium"
+    },
+    "assignment": {
+      "title": "Premium 服务器分配",
+      "description": "Premium 许可证必须与服务器链接。更改选定的服务器以转移许可证。",
+      "activeLicenses": "{count, plural, =1 {个有效 Premium 许可证} other {个有效 Premium 许可证}}",
+      "linkedServers": "{count, plural, =1 {个已链接的服务器} other {个已链接的服务器}}",
+      "pendingAssignment": "{count, plural, =1 {个待分配} other {个待分配}}",
+      "licensesTitle": "Premium 许可证",
+      "licensesDescription": "选择您想要分配或转移的特定许可证。",
+      "licenseNumber": "许可证 #{number}",
+      "noServer": "未选择服务器",
+      "giftLicense": "礼物许可证",
+      "stripeSubscription": "Stripe 订阅",
+      "assignServerTitle": "分配服务器",
+      "assignServerDescription": "许可证 #{number} 可以移至以下任何可管理的服务器。",
+      "assignedToLicense": "已分配给许可证 #{number}",
+      "noServersAvailable": "目前没有可管理的服务器。",
+      "note": "每个有效的 Premium 许可证必须有一个服务器。选择已分配给另一许可证的服务器会将其转移到当前选定的许可证。",
+      "save": "保存 Premium 许可证"
+    }
+  },
+  "pages": {
+    "subscriptions": {
+      "title": "订阅",
+      "description": "在此处查看您的有效订阅。计划更改、付款方式、续订和取消均通过 Stripe 门户进行管理。"
+    },
+    "premium": {
+      "title": "服务器升级",
+      "description": "管理 Premium 服务器许可证，并将有效许可证分配给应获得特权的服务器。"
+    },
+    "gifts": {
+      "title": "礼物库存",
+      "description": "恢复尚未领取的礼物链接。已领取的礼物将从此库存中删除。"
+    }
+  }
+}
