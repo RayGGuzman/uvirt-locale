@@ -1,0 +1,87 @@
+{
+  "alerts": {
+    "statusError": "Não foi possível carregar o status em tempo real dos seus planos.",
+    "billingError": "Não foi possível carregar o perfil de faturamento detalhado."
+  },
+  "subscriptions": {
+    "title": "Gerenciar assinaturas no Stripe",
+    "description": "Você pode visualizar suas assinaturas ativas, atualizar métodos de pagamento, alterar detalhes de faturamento e cancelar planos a partir do portal do Stripe.",
+    "openPortal": "Abrir portal do Stripe",
+    "portalUnavailable": "Portal do Stripe indisponível"
+  },
+  "overview": {
+    "recentPurchases": {
+      "title": "Compras recentes",
+      "description": "Últimas faturas e presentes vinculados à sua conta.",
+      "openPortal": "Abrir portal do Stripe",
+      "empty": "Nenhuma compra ainda."
+    },
+    "actions": {
+      "title": "Ações de faturamento",
+      "description": "Vá direto para os lugares que você mais provavelmente precisará após o pagamento.",
+      "pro": "Ir para preços Pro",
+      "premium": "Ir para preços Premium",
+      "restore": "Restaurar compras",
+      "note": "O Stripe lida com o pagamento de forma segura. A uvirt mantém as faturas, links de presentes e o status do plano visíveis aqui após o fluxo terminar."
+    }
+  },
+  "invoices": {
+    "title": "Faturas",
+    "description": "Abra ou baixe suas faturas do Stripe.",
+    "invoice": "Fatura",
+    "view": "Ver fatura",
+    "download": "Baixar PDF",
+    "empty": "Nenhuma fatura ainda."
+  },
+  "gifts": {
+    "title": "Presentes não resgatados",
+    "description": "Presentes que você comprou e que ainda aguardam para ser resgatados.",
+    "gift": "Presente",
+    "plan": "Plano de {period}",
+    "days": "{days} dias",
+    "copied": "Copiado",
+    "copyLink": "Copiar link",
+    "openLink": "Abrir link do presente",
+    "empty": "Você não tem presentes não resgatados no momento."
+  },
+  "premium": {
+    "emptyState": {
+      "title": "Você não tem nenhuma licença Premium",
+      "description": "Quando você comprar ou resgatar uma licença Premium, ela aparecerá aqui para que você possa atribuí-la a um servidor.",
+      "buy": "Comprar Premium"
+    },
+    "assignment": {
+      "title": "Atribuição de servidor Premium",
+      "description": "Licenças Premium devem ficar vinculadas a servidores. Altere o servidor selecionado para transferir uma licença.",
+      "activeLicenses": "{count, plural, =1 {Licença Premium ativa} other {Licenças Premium ativas}}",
+      "linkedServers": "{count, plural, =1 {Servidor vinculado} other {Servidores vinculados}}",
+      "pendingAssignment": "{count, plural, =1 {Atribuição pendente} other {Atribuições pendentes}}",
+      "licensesTitle": "Licenças Premium",
+      "licensesDescription": "Escolha a licença específica que você deseja atribuir ou transferir.",
+      "licenseNumber": "Licença #{number}",
+      "noServer": "Nenhum servidor selecionado",
+      "giftLicense": "Licença de presente",
+      "stripeSubscription": "Assinatura do Stripe",
+      "assignServerTitle": "Atribuir servidor",
+      "assignServerDescription": "A licença #{number} pode ser movida para qualquer servidor gerenciável abaixo.",
+      "assignedToLicense": "Atribuída à licença #{number}",
+      "noServersAvailable": "Não há servidores gerenciáveis disponíveis no momento.",
+      "note": "Cada licença Premium ativa deve ter um servidor. Selecionar um servidor já atribuído a outra licença o transfere para a licença atualmente selecionada.",
+      "save": "Salvar licenças Premium"
+    }
+  },
+  "pages": {
+    "subscriptions": {
+      "title": "Assinaturas",
+      "description": "Visualize suas assinaturas ativas aqui. Mudanças de plano, métodos de pagamento, renovações e cancelamentos são gerenciados através do portal do Stripe."
+    },
+    "premium": {
+      "title": "Melhoria do servidor",
+      "description": "Gerencie licenças de servidor Premium e atribua licenças ativas aos servidores que devem receber vantagens."
+    },
+    "gifts": {
+      "title": "Inventário de presentes",
+      "description": "Recupere links de presentes que ainda não foram resgatados. Presentes resgatados são removidos deste inventário."
+    }
+  }
+}
