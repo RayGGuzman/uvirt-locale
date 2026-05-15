@@ -79,7 +79,7 @@ The following values are matched against:
 **Whitelist examples**
 
 - `^\[live\]` will only post anything starting with `[live]`.
-- `Grand Theft Auto` will only post anything that includes `Grand Theft Auto`. (useful for Twitch games)
+- `Grand Theft Auto` will only post anything that includes `Grand Theft Auto`. (useful for Twitch games) <br />
   <br />
 
 <br />
@@ -352,8 +352,7 @@ Placeholders allow you to use variables that change from message to message, for
 \*\* If `{post.image}` is used within text fields of the custom message, it will be rendered as an invisible hyperlink to embed the image. If it's used within image url fields, it will be rendered as an image. <br /> <br />
 \*\*\* You may also use `{author.xxx}` to refer to the author for all `{creator.xxx}` placeholders. In non-reposts, `author` and `creator` will be the same — if a post is a repost, `creator` will be the user who reposted the post, while `author` will be the original author of the post.
 
-<br />
-<br />
+<br /> <br />
 
 <mark>
     These are only available for Reddit. (*4)
