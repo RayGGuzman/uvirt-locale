@@ -41,7 +41,7 @@ What should happen with the member if they fail verification.
 
 - Ban member
 - Kick member
-- Assign role to member\*
+- Assign role to member\* <br />
   <br />
 
 \*requires a punishment role to be set.
@@ -64,7 +64,7 @@ There are a few reasons why a member might fail verification. These may include 
 
 - The captcha wasn't solved correctly for eight or more times.
 - The user uses a disposable email address.
-- The user uses a VPN or proxy. (experimental)
+- The user uses a VPN or proxy. (experimental) <br />
   <br />
 
 <br />
