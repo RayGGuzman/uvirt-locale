@@ -26,7 +26,7 @@ Wamellow está traducido a muchos idiomas diferentes, incluyendo
 - 🇷🇺 Russian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=ru&style=flat&logo=crowdin&query=%24.progress.9.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇸🇮 Slovenian ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=sl&style=flat&logo=crowdin&query=%24.progress.10.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
 - 🇪🇸 Spanish ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=es-ES&style=flat&logo=crowdin&query=%24.progress.1.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
-- 🇹🇷 Turkish ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=tr&style=flat&logo=crowdin&query=%24.progress.11.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json)
+- 🇹🇷 Turkish ![emoji](https://img.shields.io/badge/dynamic/json?color=green&label=tr&style=flat&logo=crowdin&query=%24.progress.11.data.approvalProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-15336720-606257.json) <br />
   <br />
 
 Ten en cuenta que Wamellow elegirá automáticamente el idioma de tu Discord.
@@ -46,7 +46,7 @@ The list of languages for Text-to-Speech differs:
 - 🇧🇷 Portuguese, Brazilian
 - 🇮🇩 Indonesian
 - 🇯🇵 Japanese
-- 🇰🇷 Korean
+- 🇰🇷 Korean <br />
   <br />
 
 Puedes encontrar la lista completa de voces soportadas en la [documentación de texto a voz](/docs/text-to-speech#voices).
