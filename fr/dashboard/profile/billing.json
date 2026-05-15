@@ -1,0 +1,87 @@
+{
+  "alerts": {
+    "statusError": "Impossible de charger l'état en direct de vos plans.",
+    "billingError": "Impossible de charger le profil de facturation détaillé."
+  },
+  "subscriptions": {
+    "title": "Gérer les abonnements dans Stripe",
+    "description": "Vous pouvez consulter vos abonnements actifs, mettre à jour les modes de paiement, modifier les informations de facturation et annuler des plans depuis le portail Stripe.",
+    "openPortal": "Ouvrir le portail Stripe",
+    "portalUnavailable": "Portail Stripe indisponible"
+  },
+  "overview": {
+    "recentPurchases": {
+      "title": "Achats récents",
+      "description": "Dernières factures et cadeaux liés à votre compte.",
+      "openPortal": "Ouvrir le portail Stripe",
+      "empty": "Aucun achat pour le moment."
+    },
+    "actions": {
+      "title": "Actions de facturation",
+      "description": "Accédez directement aux endroits dont vous aurez probablement besoin après le paiement.",
+      "pro": "Aller aux tarifs Pro",
+      "premium": "Aller aux tarifs Premium",
+      "restore": "Restaurer les achats",
+      "note": "Stripe gère le paiement en toute sécurité. uvirt conserve les factures, les liens de cadeaux et l'état du plan visibles ici après la fin du processus."
+    }
+  },
+  "invoices": {
+    "title": "Factures",
+    "description": "Ouvrez ou téléchargez vos factures Stripe.",
+    "invoice": "Facture",
+    "view": "Voir la facture",
+    "download": "Télécharger en PDF",
+    "empty": "Aucune facture pour le moment."
+  },
+  "gifts": {
+    "title": "Cadeaux non réclamés",
+    "description": "Cadeaux que vous avez achetés et qui n'ont pas encore été réclamés.",
+    "gift": "Cadeau",
+    "plan": "Plan de {period}",
+    "days": "{days} jours",
+    "copied": "Copié",
+    "copyLink": "Copier le lien",
+    "openLink": "Ouvrir le lien du cadeau",
+    "empty": "Vous n'avez aucun cadeau non réclamé pour le moment."
+  },
+  "premium": {
+    "emptyState": {
+      "title": "Vous n'avez aucune licence Premium",
+      "description": "Lorsque vous achetez ou réclamez une licence Premium, elle apparaîtra ici pour que vous puissiez l'attribuer à un serveur.",
+      "buy": "Acheter Premium"
+    },
+    "assignment": {
+      "title": "Attribution de serveur Premium",
+      "description": "Les licences Premium doivent rester liées aux serveurs. Changez le serveur sélectionné pour transférer une licence.",
+      "activeLicenses": "{count, plural, =1 {Licence Premium active} other {Licences Premium actives}}",
+      "linkedServers": "{count, plural, =1 {Serveur lié} other {Serveurs liés}}",
+      "pendingAssignment": "{count, plural, =1 {Attribution en attente} other {Attributions en attente}}",
+      "licensesTitle": "Licences Premium",
+      "licensesDescription": "Choisissez la licence spécifique que vous souhaitez attribuer ou transférer.",
+      "licenseNumber": "Licence #{number}",
+      "noServer": "Aucun serveur sélectionné",
+      "giftLicense": "Licence de cadeau",
+      "stripeSubscription": "Abonnement Stripe",
+      "assignServerTitle": "Attribuer un serveur",
+      "assignServerDescription": "La licence #{number} peut être déplacée vers n'importe quel serveur gérable ci-dessous.",
+      "assignedToLicense": "Attribuée à la licence #{number}",
+      "noServersAvailable": "Il n'y a aucun serveur gérable disponible pour le moment.",
+      "note": "Chaque licence Premium active doit avoir un serveur. Sélectionner un serveur déjà attribué à une autre licence le transfère à la licence actuellement sélectionnée.",
+      "save": "Enregistrer les licences Premium"
+    }
+  },
+  "pages": {
+    "subscriptions": {
+      "title": "Abonnements",
+      "description": "Consultez vos abonnements actifs ici. Les changements de plan, modes de paiement, renouvellements et annulations sont gérés via le portail Stripe."
+    },
+    "premium": {
+      "title": "Amélioration du serveur",
+      "description": "Gérez les licences de serveur Premium et attribuez des licences actives aux serveurs qui devraient recevoir des avantages."
+    },
+    "gifts": {
+      "title": "Inventaire de cadeaux",
+      "description": "Récupérez les liens de cadeaux qui n'ont pas encore été réclamés. Les cadeaux réclamés sont retirés de cet inventaire."
+    }
+  }
+}
