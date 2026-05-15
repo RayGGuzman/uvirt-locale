@@ -19,7 +19,7 @@ The following types of images are available:
 
 - `Anime` will get a random waifu.
 - `Blåhaj` will get a random Blåhaj. (uses [shi-gg/transgirl](https://github.com/shi-gg/transgirl))
-- `Nekos.best` will get a random neko. (uses [Nekos.best](https://nekos.best))
+- `Nekos.best` will get a random neko. (uses [Nekos.best](https://nekos.best)) <br />
   <br />
 
 ... and more to come! <br /> <br />
